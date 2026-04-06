@@ -58,9 +58,9 @@ Key characteristics:
 
 ### Example 1 — Responding to an inbound customer introduction
 
-> Thanks for the add, Danny!
+> Thanks for the add, [teammate]!
 >
-> Hi Akhil — I'm the Principal Solutions Engineer supporting the Cigna Group. Happy to hop on an initial call to hear more about the use case you're exploring. I may not have all the answers in the first conversation, but I should be able to learn enough to either identify the right SME on our side or do some homework to get you what you need async.
+> Hi [name] — I'm the Principal Solutions Engineer supporting [customer]. Happy to hop on an initial call to hear more about the use case you're exploring. I may not have all the answers in the first conversation, but I should be able to learn enough to either identify the right SME on our side or do some homework to get you what you need async.
 >
 > I'm onsite with customers on the west coast this week but am pretty flexible next week if it can wait until then. If you can share some options, I'll let you know what works on my end.
 >
@@ -68,9 +68,9 @@ Key characteristics:
 
 ### Example 2 — Pre-meeting agenda and logistics email
 
-> Hi James,
+> Hi [name],
 >
-> My name is Sarah and I'm the Principal Technical lead on the Atlassian Account team supporting Ford. We're thrilled that you and Pauline are joining us in our SF office on Wednesday afternoon!
+> My name is Sarah and I'm the Principal Technical lead on the Atlassian Account team supporting [customer]. We're thrilled that you and [name] are joining us in our SF office on Wednesday afternoon!
 >
 > We have a loose agenda that includes:
 > - Learning about the work you're doing today
@@ -80,17 +80,17 @@ Key characteristics:
 >
 > We're also happy to tell you about what we're building — especially as it relates to the things you're most excited about.
 >
-> Is there anything else you or Pauline would like included in the agenda? Feel free to add Pauline to this thread. You're also more than welcome to text or call me at the number below.
+> Is there anything else you or [name] would like included in the agenda? Feel free to add [name] to this thread. You're also more than welcome to text or call me at the number below.
 >
 > Thanks,
 
 ### Example 3 — Rescheduling due to external circumstances (personal + professional)
 
-> Hi Antonia — Happy Friday!
+> Hi [name] — Happy Friday!
 >
-> We're closely tracking the development of Winter Storm Fern and its implications. A couple of key Atlassian team members are right in the center of where disruptive levels of ice and snow are expected — I, for example, am planning on being iced into my house with my husband and small children from Saturday until probably Tuesday afternoon (crossing our fingers for no power outages — pray for us 😅). Given the expected conditions, would it be possible to find a later date for the Rovo demo currently scheduled for Monday? Happy to consider any suggestions that work for both Jared and Kelly.
+> We're closely tracking the development of Winter Storm Fern and its implications. A couple of key Atlassian team members are right in the center of where disruptive levels of ice and snow are expected — I, for example, am planning on being iced into my house with my husband and small children from Saturday until probably Tuesday afternoon (crossing our fingers for no power outages — pray for us 😅). Given the expected conditions, would it be possible to find a later date for the Rovo demo currently scheduled for Monday? Happy to consider any suggestions that work for both [name] and [name].
 >
-> Hope you and the rest of the CapOne family stay safe and warm this weekend!
+> Hope you and the rest of the [customer] family stay safe and warm this weekend!
 >
 > Best Regards,
 
@@ -108,4 +108,4 @@ When asking Rovo Dev to draft an external message, provide:
 
 **Example prompt:**
 
-> "Using the External voice, draft a follow-up email to James at Ford thanking him for joining us at our SF office, summarizing the key themes from the conversation, and proposing next steps around their Atlassian platform roadmap."
+> "Using the External voice, draft a follow-up email to [name] at [customer] thanking him for joining us at our SF office, summarizing the key themes from the conversation, and proposing next steps around their Atlassian platform roadmap."
