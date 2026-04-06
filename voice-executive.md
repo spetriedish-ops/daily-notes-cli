@@ -56,9 +56,9 @@ Key characteristics:
 
 ### Example 1 — Flagging a business risk to senior leadership
 
-> Hi Dawn,
+> Hi [name],
 >
-> I'm flagging a potential impact to Q4 revenue. Several high-value customer meetings — including Apple, Ford, and Capital One — were planned with my direct involvement at Team. My exclusion from the attendee list puts those engagements at risk. I've documented the pipeline impact in a Confluence page linked here.
+> I'm flagging a potential impact to Q4 revenue. Several high-value customer meetings — including [customer1], [customer2], and [customer3] — were planned with my direct involvement at Team. My exclusion from the attendee list puts those engagements at risk. I've documented the pipeline impact in a Confluence page linked here.
 >
 > The ask: please review the attendee list and assess whether an exception is warranted. I'm available to discuss at your convenience.
 >
@@ -102,4 +102,4 @@ When asking Rovo Dev to draft an executive message, provide:
 
 **Example prompt:**
 
-> "Using the Executive voice, draft a message to my VP flagging that a key customer account is at risk due to a delayed response from our Trust team. The customer is Cigna, the issue is blocking their Rovo evaluation, and I need leadership visibility to accelerate the response."
+> "Using the Executive voice, draft a message to my VP flagging that a key customer account is at risk due to a delayed response from our Trust team. The customer is [customer], the issue is blocking their Rovo evaluation, and I need leadership visibility to accelerate the response."
