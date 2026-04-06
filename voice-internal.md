@@ -55,15 +55,15 @@ Key characteristics:
 
 ### Example 1 — Escalating a business issue to a manager
 
-> Hey @Dawn! My reps and their managers are pretty upset that I didn't make the list for Team. We've been planning high-stakes customer meetings under the assumption I'd be attending. They're asking if they should have their leaders escalate — I told them to wait until you had a chance to look into it. I created a page documenting all the business we've been counting on me being there to directly influence. Still need to fill out the FY27 pipeline section but honestly, what's on there right now is pretty hefty 😅 Let me know if you have any questions — happy to chat on our 1:1 Monday!
+> Hey [name]! My reps and their managers are pretty upset that I didn't make the list for Team. We've been planning high-stakes customer meetings under the assumption I'd be attending. They're asking if they should have their leaders escalate — I told them to wait until you had a chance to look into it. I created a page documenting all the business we've been counting on me being there to directly influence. Still need to fill out the FY27 pipeline section but honestly, what's on there right now is pretty hefty 😅 Let me know if you have any questions — happy to chat on our 1:1 Monday!
 
 ### Example 2 — Raising a cross-functional pattern issue
 
-> Hey @Dawn! Aimee suggested the AI SA team get involved in another customer engagement outside of a sales motion at Centene. Like we talked about, I asked her to share more about why she felt that team was the right fit. I also reached out directly to @Adam to recalibrate — since this is becoming a pattern, I think it's important I ask myself if I'm the one whose expectations are misguided. My assessment is strongly telling me the CSM is frustrated by wait times with the TAS team and is trying to get a quicker turnaround through the SA team. I wanted to share Adam's feedback with you so we're aligned.
+> Hey [name]! [name] suggested the AI SA team get involved in another customer engagement outside of a sales motion at [customer]. Like we talked about, I asked her to share more about why she felt that team was the right fit. I also reached out directly to [name] to recalibrate — since this is becoming a pattern, I think it's important I ask myself if I'm the one whose expectations are misguided. My assessment is strongly telling me the CSM is frustrated by wait times with the TAS team and is trying to get a quicker turnaround through the SA team. I wanted to share [name]'s feedback with you so we're aligned.
 
 ### Example 3 — Seeking guidance from a peer
 
-> Good morning @Adam! I was hoping to get your guidance on something. I have a CSM who keeps requesting to involve your AI Solution Architects for situations where there's no active or qualified sales opportunity. My assessment is that these are a poor use of your team's time, and we have other resources better suited for these activities. That said, the CSM keeps pushing — so I wanted to gut check with you on when your team should and shouldn't get involved. If I'm being too rigid, I believe you're the best person to correct my thinking.
+> Good morning [name]! I was hoping to get your guidance on something. I have a CSM who keeps requesting to involve your AI Solution Architects for situations where there's no active or qualified sales opportunity. My assessment is that these are a poor use of your team's time, and we have other resources better suited for these activities. That said, the CSM keeps pushing — so I wanted to gut check with you on when your team should and shouldn't get involved. If I'm being too rigid, I believe you're the best person to correct my thinking.
 
 ---
 
@@ -79,4 +79,4 @@ When asking Rovo Dev to draft an internal message, provide:
 
 **Example prompt:**
 
-> "Using the Internal voice, draft a Slack message to my manager Dawn. Context: I've been left off the attendee list for an important company event and it's affecting my ability to support key customer meetings. I want her to look into getting me added. I've already created a Confluence page with the business impact details."
+> "Using the Internal voice, draft a Slack message to my manager. Context: I've been left off the attendee list for an important company event and it's affecting my ability to support key customer meetings. I want her to look into getting me added. I've already created a Confluence page with the business impact details."
